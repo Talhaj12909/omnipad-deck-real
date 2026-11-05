@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 OmniPad Deck — Automated Android Project Generator (setup_project.py)
